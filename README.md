@@ -1,2 +1,18 @@
-# business-management-dashboard
-Modern business management platform built for small and medium-sized companies.  Modules: - CRM - Invoice management - Customer tracking - Analytics dashboard - Role-based admin panel
+# Business Management Dashboard
+
+A modern web application for managing customers, reports, and business operations.
+
+## Features
+- Authentication system
+- Admin dashboard
+- Analytics
+- Responsive UI
+- API integration
+
+## Stack
+- React
+- Node.js
+- MongoDB
+
+## Development Status
+Currently under development.
